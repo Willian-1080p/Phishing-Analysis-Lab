@@ -1,0 +1,8 @@
+From: attacker@fake-domain.com
+To: victim@company.com
+Subject: Password Expiration Notice
+Date: Mon, 20 Jun 2026 10:00:00 +0000
+
+Please click below to reset your password.
+
+https://secure-login-update-example.com
